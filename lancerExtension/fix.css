@@ -1,0 +1,29 @@
+#main{
+    background-color: #222;
+    
+}
+.NavigationRoot{
+    background: #444 !important;
+}
+.search-filter-wrapper form{
+    background: #333 !important;
+}
+.search-result-list li{
+    background: #222;
+}
+.search-result-header,.filter-item-header {
+    background: #555 !important;
+}
+.info-card-description,.info-card-title,.info-card-price,.info-card-price-type,.info-card-skills,.info-card-details span,.info-card-details-item {
+    font-weight: bold;
+    color: #2c5836 !important;
+}
+.pinky-template .search-result-header-input .input-search,.input-tag,.filter-item-location input{
+    background : #666 !important;
+}
+.search-result-pagination,.search-result-pagination li,.search-result-pagination li a{
+    background-color:#555 !important;
+}
+.pinky-template .search-result-item {
+    border-bottom: 1px solid #263320 !important;
+}
