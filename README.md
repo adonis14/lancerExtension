@@ -4,4 +4,4 @@ If you have any problem when you are using freelancer.com, you can use this.
 This is auto read and redirect job search page.
 Thanks for using my chrome extension
 
-If you have any problem, contact me : aleksandrpucon@gmail.com
+If you have any problem, contact me 
